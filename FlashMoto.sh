@@ -12,7 +12,6 @@ CustomLogo(){
 	sudo $path_fastboot/./fastboot flash logo $path_firmware/logo.bin
 }
 
-
 CustomRecovery(){
 	clear
 	echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
